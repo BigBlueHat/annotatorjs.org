@@ -112,5 +112,11 @@
     "description": "Universitat Oberta de Catalunya - Allows you to view the annotations in a panel in the right side. You can delete, expand, collapse the panel and find annotations.",
     "owner": "Albert Juhe",
     "url": "https://github.com/albertjuhe/annotator_view"
+},
+{
+    "name": "Annotator Categories",
+    "description": " A plugin for Annotator.js that allows users to select categories for annotations, changes colors.",
+    "owner": "Lacuna Stories",
+    "url": "https://github.com/LacunaStories/Annotator-Categories"
 }
 ]
